@@ -6,6 +6,7 @@ Membuat sistem yang dapat memfilter komentar negatif dan positif dan mengkalkula
 Hasil Pengujian dengan Ratio 80:20
 
 Algorithm| Models	| Accuracy	Recall|	Precision|	F1 Score
+:-----:|:-----:|:-----:|:-----:|:-----:
 **SVM**	|91.18 % |94.12 %	| 88.89 % |	91.43 %
 **KNN**	|85.29 %| 80.39 %	| 89.13 %| 84.54%
 **Naive Bayes**| 89.22 %| 84.31 % |	93.38 % |	88.66 %
