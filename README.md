@@ -10,4 +10,16 @@ Algorithm| Models	| Accuracy	Recall|	Precision|	F1 Score
 **SVM**	|91.18 % |94.12 %	| 88.89 % |	91.43 %
 **KNN**	|85.29 %| 80.39 %	| 89.13 %| 84.54%
 **Naive Bayes**| 89.22 %| 84.31 % |	93.38 % |	88.66 %
-**Voting Classifier** |	89.22 % |	86.27 %	91.67 | %	88.89 %
+**Voting Classifier** |	89.22 % |	86.27 % |	91.67 | %	88.89 %
+
+---
+### Implementasi Dengan Anvil
+
+Tampilan Utama Pada app web Anvil
+
+![anvil_1.png](anvil_1.png)
+
+Hasil yang menunjukan bahwa program berjalan sesuai yang diharapkan
+
+![anvil.png](anvil.png)
+
